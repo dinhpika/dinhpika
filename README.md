@@ -6,7 +6,7 @@
 - 🎯 Goal: Becoming a full-stack developer and building impactful web applications  
 
 # 🛠 Skills and Tools
-- **Languages**: Python, C++, Java, SQL
+- **Languages**: Python, C++, Java, JavaScript, HTML, CSS
 
 ## 🌐 Connect With Me  
 - **LinkedIn**: Updating
